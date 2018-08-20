@@ -13,5 +13,6 @@ namespace ShoppingCartGroupChallenge.Models
         public string GameDescription { get; set; }
         public string GameImage { get; set; }
         public float GamePrice { get; set; }
+        //Hello this is from alex
     }
 }
